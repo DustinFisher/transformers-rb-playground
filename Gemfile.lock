@@ -206,7 +206,7 @@ GEM
     regexp_parser (2.9.2)
     reline (0.5.9)
       io-console (~> 0.5)
-    rexml (3.3.5)
+    rexml (3.3.6)
       strscan
     rice (4.3.1)
     rubocop (1.65.1)
@@ -246,7 +246,7 @@ GEM
     safetensors (0.1.1-x86_64-darwin)
     safetensors (0.1.1-x86_64-linux)
     securerandom (0.3.1)
-    selenium-webdriver (4.23.0)
+    selenium-webdriver (4.24.0)
       base64 (~> 0.2)
       logger (~> 1.4)
       rexml (~> 3.2, >= 3.2.5)
